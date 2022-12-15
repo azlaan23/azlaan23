@@ -1,4 +1,4 @@
-![logo](https://github.com/azlaan23/azlaan23/blob/main/Technology-Watch%20(2).jpg)
+
 <h1 align="center">Hi 👋, I'm Aasif Hamid</h1>
 <h3 align="center">An Ambitious Developer From Jammu And Kashmir</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
