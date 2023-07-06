@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azlaan23&label=Profile%20views&color=0e75b6&style=flat" alt="azlaan23" /> </p>
 
-- 🌱 I’m currently learning **C Language**
+- 🌱 I’m currently learning **Java Language**
 
 - 💬 Ask me about **Any Thing about Technology**
 
